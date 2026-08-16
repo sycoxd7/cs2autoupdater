@@ -1,12 +1,12 @@
 {
   "enabled": true,
   "version": "1.0.0",
-  "minimumVersion": "1.1.0",
-  "maintenance": true,
+  "minimumVersion": "1.0.0",
+  "maintenance": false,
   "announcement": {
-    "enabled": true,
-    "title": "Important Update",
-    "message": "Servers will be under maintenance tonight",
-    "type": "warning"
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "type": ""
   }
 }
