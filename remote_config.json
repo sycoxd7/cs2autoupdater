@@ -1,12 +1,12 @@
 {
   "enabled": true,
-  "version": "0.0.1",
+  "version": "1.0.0",
   "minimumVersion": "1.0.0",
   "maintenance": false,
-  "announcement": Fuck You{
-    "enabled": false,
-    "title": "",
-    "message": "",
-    "type": "info"
+  "announcement": {
+    "enabled": true,
+    "title": "Important Update",
+    "message": "Servers will be under maintenance tonight",
+    "type": "warning"
   }
 }
