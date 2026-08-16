@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "version": "1.0.0",
-  "minimumVersion": "1.0.0",
-  "maintenance": false,
+  "minimumVersion": "1.1.0",
+  "maintenance": true,
   "announcement": {
     "enabled": true,
     "title": "Important Update",
