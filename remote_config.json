@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "version": "1.0.0",
+  "minimumVersion": "1.0.0",
+  "maintenance": false,
+  "announcement": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "type": "info"
+  }
+}
